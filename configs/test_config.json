@@ -1,0 +1,14 @@
+{
+    title: "Test Config",
+    meta: {
+        timezone: "UTC",
+        directory: "/var/log/auth.log"
+    },
+    parser_meta: {
+        parser_order: "timecode, from_code, type, message",
+        timecode: "",
+        from_code: "",
+        type: "",
+        message: ""
+    }
+}
